@@ -3,21 +3,6 @@
 🚀 I'm a Full Stack Developer with a passion for building scalable web applications and learning new technologies.</br>
 I have experience working on both frontend and backend development, with a keen interest in delivering seamless user experiences and efficient server-side solutions.From crafting smooth, intuitive frontend interfaces to optimizing complex backend architectures, I thrive on creating powerful digital experiences that make an impact.
 
-</br>
-
-<!--
-   --- Youtube stats --
-<p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
--->
 
 ---
 </br>
@@ -96,29 +81,6 @@ I have experience working on both frontend and backend development, with a keen 
 <a href="https://www.youtube.com/c/fouzia.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fouzia.dev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fouzia oreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fouzia oreen" height="30" width="40" /></a>
 <a href="https://www.buymeacoffee.com/Fouzia Oreen"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="130" alt="Fouzia Oreen" align="center" /></a>
-
-
-<!-- 
-<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
-<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
-<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") 
-# Eg : [![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
-
-YOUTUBE-CARDS 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS 
-[![8 Data Structures Every Programmer Should Know](https://ytcards.demolab.com/?id=gxdQiBkidWk&title=8+Data+Structures+Every+Programmer+Should+Know&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "8 Data Structures Every Programmer Should Know")](https://www.youtube.com/watch?v=gxdQiBkidWk)
-[![Programmers Need More Math](https://ytcards.demolab.com/?id=gHRVhL1fZC0&title=Programmers+Need+More+Math&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317 "Programmers Need More Math")](https://www.youtube.com/watch?v=gHRVhL1fZC0)
-[![How to DESTROY Developer Productivity (avoid at all costs)](https://ytcards.demolab.com/?id=vl6SQZWRaks&title=How+to+DESTROY+Developer+Productivity+%28avoid+at+all+costs%29&lang=en&timestamp=1725462064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=784 "How to DESTROY Developer Productivity (avoid at all costs)")](https://www.youtube.com/watch?v=vl6SQZWRaks)
-[![Everything You Need to Know about Git](https://ytcards.demolab.com/?id=K6Q31YkorUE&title=Everything+You+Need+to+Know+about+Git&lang=en&timestamp=1724864414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1396 "Everything You Need to Know about Git")](https://www.youtube.com/watch?v=K6Q31YkorUE)
-[![Abstraction - Java OOP](https://ytcards.demolab.com/?id=Om2kORezNu8&title=Abstraction+-+Java+OOP&lang=en&timestamp=1724774421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59 "Abstraction - Java OOP")](https://www.youtube.com/watch?v=Om2kORezNu8)
-[![Polymorphism - Java OOP](https://ytcards.demolab.com/?id=CWX3txO1jP0&title=Polymorphism+-+Java+OOP&lang=en&timestamp=1724688018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=56 "Polymorphism - Java OOP")](https://www.youtube.com/watch?v=CWX3txO1jP0)
-
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
- -->
 
 
 </br>
