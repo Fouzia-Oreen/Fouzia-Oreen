@@ -61,7 +61,7 @@ I have experience working on both frontend and backend development, with a keen 
 <img align="left" alt="Docker" width="30px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Netlify" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vercel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" style="padding-right:10px;" />
-<img align="left" alt="DigitalOcean" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" style="padding-right:10px;" />
+<img align="left" alt="DigitalOcean" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" style="padding-right:10px; padding-top:10px;" />
 
 
 
