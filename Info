@@ -20,83 +20,95 @@ I have experience working on both frontend and backend development, with a keen 
    </p>
 -->
 
----
 </br>
 
 <!-- DESIGN - TOOLS -->
-<h3 align="left">Design Tools</h3>
-<p align="left"> 
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />
+<h2 align="left">Design Tools</h2>
+<p align="left" style="display:flex; gap:20px;"> 
+<img align="left" alt="illustrator" width="30px" src="./images/adobe-illustrator-svgrepo-com.svg" />
+<img align="left" alt="blender" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<img align="left" alt="figma" width="30px" src="./images/figma-svgrepo-com.svg" />
+<img align="left" alt="photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 </p>
 
 </br>
-</br>
 
-<!-- FRONTEND - TOOLS -->
-### Front-End Tools
-<img align="left" alt="Notion" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NextJs" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MaterialUI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-<img align="left" alt="ThreeJs" width="30px" src="https://global.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="padding-right:10px;" />
+<h2 align="left">Programming Languages</h2>
+<p align="left" style="display:flex; gap:20px;"> 
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Python" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Python" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</p>
 
 </br>
-</br>
 
-<!-- BACKEND - TOOLS -->
-### Backend-End Tools
-
-<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style="padding-right:10px;" />
-<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Googlecloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Redis" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="30px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Netlify" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vercel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" style="padding-right:10px;" />
-<img align="left" alt="DigitalOcean" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" style="padding-right:10px;" />
-
-
-
+<h2 align="left">Styling & UI Frameworks</h2>
+<p align="left" style="display:flex; gap:20px;"> 
+<img align="left" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  />
+<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
+<img align="left" alt="chackra-ui" width="30px" src="./images/icons8-chakra-ui.svg"  />
+<img align="left" alt="material-ui" width="30px" src="./images/icons8-material-ui.svg"  />
+<img align="left" alt="tailwind" width="30px" src="./images//tailwind-svgrepo-com.svg"  />
+<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  />
+<img align="left" alt="schad-cn" width="30px" src="./images/shadcn-ui-seeklogo.svg"  />
+</p>
 
 </br>
-</br>
-</br>
+
+<h2 align="left">Frameworks & Runtimes</h2>
+<p align="left" style="display:flex; gap:20px;"> 
+<img align="left" alt="Flask" width="30px" src="./images/typescript-svgrepo-com.svg"/>
+<img align="left" alt="Flask" width="30px" src="./images/angular-svgrepo-com.svg"/>
+<img align="left" alt="Flask" width="30px" src="./images/react-svgrepo-com.svg"/>
+<img align="left" alt="Express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  />
+<img align="left" alt="NestJs" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"  />
+<img align="left" alt="NextJs" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  />
+<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />
+<img align="left" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img align="left" alt="Flask" width="30px" src="./images/icons8-spring-boot.svg"/>
+</p>
+
 </br>
 
+<h2 align="left">APIs & Communication</h3>
+<p align="left" style="display:flex; gap:20px;"> 
+<img align="left" alt="rest-api" width="40px" src="./images/icons8-rest-api-48.png"  />
+<img align="left" alt="firebase" width="30px" src="./images/firebase-svgrepo-com.svg"  />
+<img align="left" alt="Googlecloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"  />
+<img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"  />
+<img align="left" alt="socket-io" width="30px" src="./images/socket-dot-io-svgrepo-com.svg" />
+</p>
 
-<!--  SOCIAL - ICONS -->
-### Connect with me
-<a href="https://linkedin.com/in/fouzia oreen" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fouzia oreen" height="30" width="40" /></a>
-<a href="https://fb.com/fouzia.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fouzia.dev" height="30" width="40" /></a>
-<a href="https://instagram.com/fouzia.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fouzia.dev" height="30" width="40" /></a>
-<a href="https://dribbble.com/fouzia oreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="fouzia oreen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fouzia.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fouzia.dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fouzia oreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fouzia oreen" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/Fouzia Oreen"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="130" alt="Fouzia Oreen" align="center" /></a>
+</br>
+
+<h2 align="left" style="margin-bottom:25px;">Testing, Hosting & Deployment</h2>
+<p align="left" style="display:flex; gap:20px;"> 
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="jest" width="30px" src="./images/jest-snapshot-svgrepo-com.svg" />
+<img align="left" alt="Postman" width="30px" src="./images/postman-icon-svgrepo-com.svg" />
+<img align="left" alt="Netlify" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
+<img align="left" alt="Vercel" width="30px" src="./images/vercel-icon-svgrepo-com.svg" />
+<img align="left" alt="AWS" width="30px" src="./images//aws-svgrepo-com.svg" />
+<img align="left" alt="DigitalOcean" width="30px" src="./images/digital-ocean-svgrepo-com.svg"  />
+<img align="left" alt="azure" width="30px" src="./images/icons8-azure.svg" />
+<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+</p>
+
+</br>
+
+<h2 align="left">Connect with me</h3>
+<p align="left" style="display:flex; gap:20px;"> 
+<a href="https://fouziaoreen.com" target="blank" ><img align="center" src="./images/web-link-svgrepo-com.svg" alt="fouzia oreen" height="40"  /></a>
+<a href="https://www.linkedin.com/in/fouziaoreen" target="blank" ><img align="center" src="./images/linkedin-svgrepo-com.svg" alt="fouzia oreen" height="40"  /></a>
+<a href="https://www.facebook.com/profile.php?id=61577160972379" target="blank"><img align="center" src="./images/facebook-svgrepo-com.svg" alt="fouzia.dev" height="40" /></a>
+<a href="https://www.instagram.com/fouzia__oreen/" target="blank"><img align="center" src="./images/instagram-svgrepo-com.svg" alt="fouzia.dev" height="38" /></a>
+<a href="https://dribbble.com/fouzia oreen" target="blank"><img align="center" src="./images/dribbble-svgrepo-com.svg" alt="fouzia oreen" height="38"  /></a>
+<a href="https://www.youtube.com/@FouziaOreen" target="blank"><img align="center" src="./images/youtube-svgrepo-com.svg" alt="fouzia.dev" height="40"  /></a>
+<a href="https://x.com/Fouzia__Oreen" target="blank"><img align="center" src="./images/twitter-svgrepo-com.svg" alt="fouzia.dev" height="40"  /></a>
+<a href="https://www.leetcode.com/fouzia oreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fouzia oreen" height="30"  /></a>
+<a href="https://www.buymeacoffee.com/Fouzia Oreen"> <img src="./images/buy-me-a-coffee-seeklogo.svg" height="40"  alt="Fouzia Oreen" align="center" /></a>
+</p>
+
 
 
 <!-- 
@@ -125,29 +137,20 @@ YOUTUBE-CARDS
 </br>
 </br>
 
-<!--  GITHUB - STATS -->
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Fouzia-Oreen&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fouzia-Oreen&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fouzia-Oreen&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</br>
-</br>
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fouzia-Oreen&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
----
-####  GitHub View
-[![](https://visitcount.itsvg.in/api?id=Fouzia-Oreen&icon=0&color=12)](https://visitcount.itsvg.in)
-
+</br>
+</br>
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-  My journey into development began with curiosity. I started by experimenting with HTML, CSS, and JavaScript, which quickly turned into a passion for building things from scratch. As I dove deeper, I discovered full-stack development—the perfect blend of frontend creativity and backend logic.
+What started as a simple interest in how websites work soon turned into a passion for building meaningful web experiences. My journey began with basic HTML and CSS, but I quickly dove deeper into JavaScript, React, and Node.js—eventually falling in love with the MERN stack. Over time, I’ve built everything from single-page applications to complex multi-vendor e-commerce platforms, implementing secure role-based authentication, scalable REST APIs, and dynamic admin dashboards.
 
-Learning Node.js, React, and databases like MongoDB allowed me to craft complete web applications. My first team project taught me the importance of collaboration, code quality, and version control, while challenges like cloud deployment and performance optimization pushed me further.
+Each project taught me something new: how to handle file uploads with Cloudinary, structure databases for performance and clarity, integrate Redux Toolkit for clean state management, and make UIs that feel intuitive and responsive. I’ve learned the value of writing clean code, solving real-world problems, and constantly pushing myself to grow.
+
+Today, coding is more than just a skill for me—it’s my creative outlet and problem-solving playground. I'm always exploring, learning, and building with one goal in mind: to craft solutions that actually make a difference.
+
 
 🎯 Goals:
 Today, I’m focused on creating scalable, efficient solutions while staying on top of emerging technologies like serverless architecture and AI-powered apps. The journey never ends, and I’m excited about what’s next! Enhance performance optimization skills for large-scale apps. Contribute to open-source projects. Build side projects that solve real-world problems.
