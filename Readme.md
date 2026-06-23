@@ -96,94 +96,125 @@
 
 <div align="center">
 
-<table>
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table width="100%" border="0" cellpadding="12">
 <tr>
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+
 <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64" height="64" alt="Genora Hub Logo" />
-<h3>Genora Hub</h3> 
+
+<h3><font color="#3045FF">Genora Hub</font></h3>
+
 <p align="center">
   <sub>
-     Resume Builder with <ins>ATS Check, AI Writer, and One-Click Job Tailoring</ins> designed for noob to professionals.
+    Resume Builder with <ins>ATS Check, AI Writer, and One-Click Job Tailoring</ins> designed for noob to professionals.
   </sub>
 </p>
-  
+
 [![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/genora-hub)
 
 `Next.js` • `TypeScript` • `MongoDB`
+
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+
 <img src="https://img.icons8.com/fluency/96/shopping-cart.png" width="64" height="64" alt="POS Logo" />
-<h3>Multi-Store POS</h3>
+
+<h3><font color="#3FD58B"> Multi-Store POS</font></h3>
+
 <p align="center">
   <sub>
-    Enterprise <ins>multi-tenant</ins> commerce engine featuring advanced with <ins> split payments & inventory syncing</ins>.
+    Enterprise <ins>multi-tenant</ins> commerce engine featuring advanced <ins>split payments & inventory syncing</ins>.
   </sub>
 </p>
-  
+
 [![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/pos-marketplace)
 
 `MERN` • `Docker` • `Stripe Connect`
+
 </td>
 
-<td align="center" width="33%" valign="top">
-<img src="https://img.icons8.com/fluency/96/learning.png" width="64" height="64" alt="LMS Logo" />
-<h3>Brain-Gems LMS</h3>
+<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+
+<img src="https://img.icons8.com/fluency/96/microphone.png" width="64" height="64" alt="Invoice Logo" />
+
+<h3><font color="#FF6B6B"> IntelliVoice Invoice</font></h3>
+
 <p align="center">
   <sub>
-    Comprehensive education platform equipped with <ins>multi-role dashboards, analytical pacing, and dark mode UI</ins> .
+    SaaS platform with <ins>voice-activated invoicing, multi-role dashboards, and dark mode UI</ins>.
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/brain-gems)
+[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/intellivoice)
 
-`React` • `Redux` • `Node.js` • `MongoDB` 
+`React` • `Redux` • `Node.js` • `MongoDB`
+
 </td>
 </tr>
-<tr>
-<td align="center" width="33%" valign="top">
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64" height="64" alt="Genora Hub Logo" />
-<h3>Genora Hub</h3> 
-<p align="center">
-  <sub>
-     Resume Builder with <ins>ATS Check, AI Writer, and One-Click Job Tailoring</ins> designed for noob to professionals.
-  </sub>
-</p>
-  
-[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/genora-hub)
 
-`Next.js` • `TypeScript` • `MongoDB`
-</td>
-<br>
-<td align="center" width="33%" valign="top">
-<img src="https://img.icons8.com/fluency/96/shopping-cart.png" width="64" height="64" alt="POS Logo" />
-<h3>Multi-Store POS</h3>
+<tr>
+<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+
+<img src="https://img.icons8.com/fluency/96/brain.png" width="64" height="64" alt="Hire Mind Logo" />
+
+<h3><font color="#9B59B6"> Hire Mind</font></h3>
+
 <p align="center">
   <sub>
-    Enterprise <ins>multi-tenant</ins> commerce engine featuring advanced with <ins> split payments & inventory syncing</ins>.
+    An <ins>AI-Powered Interview Preparation Platform</ins> with subscription management.
   </sub>
 </p>
-  
-[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/pos-marketplace)
+
+[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/hire-mind)
+
+`Next.js` • `TypeScript` • `Supabase`
+
+</td>
+
+<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+
+<img src="https://img.icons8.com/fluency/96/organic-food.png" width="64" height="64" alt="Organic Farm Logo" />
+
+<h3><font color="#27AE60"> Organic Farm</font></h3>
+
+<p align="center">
+  <sub>
+    Multi-vendor e-commerce with <ins>multi-tenant</ins> architecture featuring <ins>split payments & inventory</ins> management.
+  </sub>
+</p>
+
+[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/organic-farm)
 
 `MERN` • `Docker` • `Stripe Connect`
+
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+
 <img src="https://img.icons8.com/fluency/96/learning.png" width="64" height="64" alt="LMS Logo" />
-<h3>Brain-Gems LMS</h3>
+
+<h3><font color="#252A47"> Brain-Gems LMS</font></h3>
+
 <p align="center">
   <sub>
-    Comprehensive education platform equipped with <ins>multi-role dashboards, analytical pacing, and dark mode UI</ins> .
+    Comprehensive education platform equipped with <ins>multi-role dashboards, analytical pacing, and dark mode UI</ins>.
   </sub>
 </p>
 
 [![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/brain-gems)
 
-`React` • `Redux` • `Node.js` • `MongoDB` 
+`React` • `Redux` • `Node.js` • `MongoDB`
+
 </td>
 </tr>
 </table>
+
+</div>
 </div>
 
 <br />
