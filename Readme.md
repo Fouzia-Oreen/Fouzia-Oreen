@@ -14,7 +14,7 @@
 </div>
 </div>
 
-<br>
+<br />
 
 ## 📌 Professional Summary
 
@@ -27,9 +27,9 @@
 <tr>
 <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
 
-<p><strong>🏗️ SaaS & System Architecture</strong></p>
+<p><strong> SaaS & System Architecture</strong></p>
 
-- Multi-tenant applications & microservices
+- Multi-tenant microservice applications 
 - Database design & optimization
 - Containerization with Docker
 - CI/CD pipeline automation
@@ -37,7 +37,7 @@
 </td>
 <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
 
-<p><strong>⚡ Frontend Engineering</strong></p>
+<p><strong> Frontend Engineering</strong></p>
 
 - React & Next.js (App Router)
 - TypeScript & Redux Toolkit
@@ -46,10 +46,10 @@
 
 </td>
 </tr>
-<tr>
+<tr >
 <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
 
-<p><strong>🔐 Backend Development</strong></p>
+<p><strong> Backend Development</strong></p>
 
 - Node.js, Express, NestJS
 - RESTful APIs & GraphQL
@@ -59,7 +59,7 @@
 </td>
 <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
 
-<p><strong>💳 Payment & Integration</strong></p>
+<p><strong> Payment & Integration</strong></p>
 
 - Stripe & SSLCommerz
 - PayPal & Braintree
@@ -71,11 +71,11 @@
 </table>
 </div>
 
-<br>
+<br />
 
 ## 💼 Professional Journey
 
-### 🚀 Full-Stack Software Engineer | Freelance
+###  Full-Stack Software Engineer | Freelance
 *2023 – Present*
 
 - Architected **AI-driven SaaS platforms** including a resume builder with OpenAI integration and a multi-store POS system with isolated Docker containers
@@ -83,14 +83,14 @@
 - Engineered **analytics dashboards** and course management systems for enterprise LMS platforms
 - Optimized Next.js applications achieving **90+ Lighthouse scores** for Core Web Vitals
 
-### 💻 Software Engineer | Ingenious Group
+###  Software Engineer | Ingenious Group
 *2021 – 2023*
 
 - Built **reusable component libraries** with React/TypeScript, reducing development time by **30%**
 - Improved application performance through **Redux Toolkit optimization**, minimizing unnecessary re-renders
 - Collaborated in **agile teams** delivering pixel-perfect interfaces from Figma designs
 
-<br>
+<br />
 
 ## 🚀 Featured Projects
 
@@ -150,7 +150,7 @@
 
 </div>
 
----
+<br />
 
 ## 🛠️ Technology Arsenal
 
@@ -174,7 +174,14 @@
   <img src="https://skillicons.dev/icons?i=figma,postman,vscode,webstorm" />
 </p>
 
-<br>
+### 🤖 AI & Language Models
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+<br/>
 
 ## 🌱 Current Focus
 
@@ -186,5 +193,13 @@ graph LR
     E --> F[Database Replication]
     G[Cloud Native] --> H[Serverless Architectures]
     H --> I[Kubernetes Orchestration]
+```
+<br/>
+<div align="center">
+  
+### Open to exciting opportunities, collaborations, and innovative projects.
 
+⭐ If you find my work interesting, feel free to connect or explore my repositories.
+
+</div>
 
