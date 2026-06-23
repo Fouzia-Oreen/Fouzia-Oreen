@@ -96,8 +96,6 @@
 
 <div align="center">
 
-## 🚀 Featured Projects
-
 <div align="center">
 
 <table width="100%" border="0" cellpadding="12">
