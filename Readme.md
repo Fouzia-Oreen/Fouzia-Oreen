@@ -109,8 +109,6 @@
   
 [![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/genora-hub)
 
-<br />
-
 `Next.js` • `TypeScript` • `MongoDB`
 </td>
 
@@ -125,8 +123,6 @@
   
 [![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/pos-marketplace)
 
-<br />
-  
 `MERN` • `Docker` • `Stripe Connect`
 </td>
 
@@ -141,13 +137,53 @@
 
 [![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/brain-gems)
 
- <br /> 
+`React` • `Redux` • `Node.js` • `MongoDB` 
+</td>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64" height="64" alt="Genora Hub Logo" />
+<h3>Genora Hub</h3> 
+<p align="center">
+  <sub>
+     Resume Builder with <ins>ATS Check, AI Writer, and One-Click Job Tailoring</ins> designed for noob to professionals.
+  </sub>
+</p>
+  
+[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/genora-hub)
 
-`React` • `Redux` • `Node.js` • `React` 
+`Next.js` • `TypeScript` • `MongoDB`
+</td>
+<br>
+<td align="center" width="33%" valign="top">
+<img src="https://img.icons8.com/fluency/96/shopping-cart.png" width="64" height="64" alt="POS Logo" />
+<h3>Multi-Store POS</h3>
+<p align="center">
+  <sub>
+    Enterprise <ins>multi-tenant</ins> commerce engine featuring advanced with <ins> split payments & inventory syncing</ins>.
+  </sub>
+</p>
+  
+[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/pos-marketplace)
+
+`MERN` • `Docker` • `Stripe Connect`
+</td>
+
+<td align="center" width="33%" valign="top">
+<img src="https://img.icons8.com/fluency/96/learning.png" width="64" height="64" alt="LMS Logo" />
+<h3>Brain-Gems LMS</h3>
+<p align="center">
+  <sub>
+    Comprehensive education platform equipped with <ins>multi-role dashboards, analytical pacing, and dark mode UI</ins> .
+  </sub>
+</p>
+
+[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/brain-gems)
+
+`React` • `Redux` • `Node.js` • `MongoDB` 
 </td>
 </tr>
 </table>
-
 </div>
 
 <br />
