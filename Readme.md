@@ -5,14 +5,13 @@
 ### Full-Stack Software Engineer | MERN & Next.js Specialist | AI SaaS Architect
 
 <div align="center">
-
+  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-3045FF?style=for-the-badge&logo=vercel&logoColor=white)](https://fouziaoreen.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fouziaoreen)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fouzia-Oreen)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fouzia__Oreen)
-
+  
 </div>
-
 </div>
 
 <br>
@@ -23,8 +22,7 @@
 
 
 <div align="center"> 
-<h1>🎯 Core Expertise</h1>
-
+<h3>🎯 Core Expertise</h1>
 <table width="100%" border="0" cellpadding="12">
 <tr>
 <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
@@ -92,7 +90,7 @@
 - Improved application performance through **Redux Toolkit optimization**, minimizing unnecessary re-renders
 - Collaborated in **agile teams** delivering pixel-perfect interfaces from Figma designs
 
----
+<br>
 
 ## 🚀 Featured Projects
 
@@ -100,56 +98,52 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64" height="64" alt="Genora Hub Logo" />
+<h3>Genora Hub</h3> 
+<p align="center">
+  <sub>
+     Resume Builder with <ins>ATS Check, AI Writer, and One-Click Job Tailoring</ins> designed for noob to professionals.
+  </sub>
+</p>
+  
+[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/genora-hub)
 
-**🧠 Genora Hub**
+<br />
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48" height="48" />
-
-**AI-Powered SaaS Ecosystem**
-
-[![Repo](https://img.shields.io/badge/📂-Repository-3045FF?style=flat-square)](https://github.com/Fouzia-Oreen/genora-hub)
-
-- AI content & resume generation
-- Server Component architecture
-- Supabase + OpenAI integration
-
-**Stack:** Next.js, TypeScript, Supabase
-
+`Next.js` • `TypeScript` • `MongoDB`
 </td>
-<td align="center" width="33%">
 
-**🛒 Multi-Store POS**
+<td align="center" width="33%" valign="top">
+<img src="https://img.icons8.com/fluency/96/shopping-cart.png" width="64" height="64" alt="POS Logo" />
+<h3>Multi-Store POS</h3>
+<p align="center">
+  <sub>
+    Enterprise <ins>multi-tenant</ins> commerce engine featuring advanced with <ins> split payments & inventory syncing</ins>.
+  </sub>
+</p>
+  
+[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/pos-marketplace)
 
-<img src="https://img.icons8.com/fluency/96/shopping-cart.png" width="48" height="48" />
-
-**Enterprise Commerce Platform**
-
-[![Repo](https://img.shields.io/badge/📂-Repository-3FD58B?style=flat-square)](https://github.com/Fouzia-Oreen/pos-marketplace)
-
-- Multi-tenant architecture
-- Sub-merchant payments
-- Real-time inventory sync
-
-**Stack:** MERN, Docker, Stripe Connect
-
+<br />
+  
+`MERN` • `Docker` • `Stripe Connect`
 </td>
-<td align="center" width="33%">
 
-**🎓 Brain-Gems LMS**
-
-<img src="https://img.icons8.com/fluency/96/learning.png" width="48" height="48" />
-
-**Learning Management System**
+<td align="center" width="33%" valign="top">
+<img src="https://img.icons8.com/fluency/96/learning.png" width="64" height="64" alt="LMS Logo" />
+<h3>Brain-Gems LMS</h3>
+<p align="center">
+  <sub>
+    Comprehensive education platform equipped with <ins>multi-role dashboards, analytical pacing, and dark mode UI</ins> .
+  </sub>
+</p>
 
 [![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/brain-gems)
 
-- Multi-role dashboards
-- Course analytics
-- Dark mode UI
+ <br /> 
 
-**Stack:** React, Redux, Node.js
-
+`React` • `Redux` • `Node.js` • `React` 
 </td>
 </tr>
 </table>
@@ -161,40 +155,26 @@
 ## 🛠️ Technology Arsenal
 
 ### Frontend Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,sass,bootstrap" />
+<p >
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,sass,bootstrap,python" />
 </p>
 
 ### Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase,graphql" />
+<p >
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase,graphql,django" />
 </p>
 
 ### DevOps & Cloud
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,git,githubactions" />
 </p>
 
 ### Design & Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=figma,postman,vscode,webstorm" />
 </p>
 
----
-
-## 📊 GitHub Performance
-
-<div align="center">
-
-| Metric | Stats |
-|--------|-------|
-| **Contributions** | ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Fouzia-Oreen&theme=transparent&hide_border=true) |
-| **Code Frequency** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fouzia-Oreen&show_icons=true&theme=transparent&hide_border=true&count_private=true) |
-| **Language Distribution** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fouzia-Oreen&layout=compact&theme=transparent&hide_border=true) |
-
-</div>
-
----
+<br>
 
 ## 🌱 Current Focus
 
@@ -206,3 +186,5 @@ graph LR
     E --> F[Database Replication]
     G[Cloud Native] --> H[Serverless Architectures]
     H --> I[Kubernetes Orchestration]
+
+
