@@ -1,12 +1,12 @@
 <div align="center">
   
-# Fouzia Oreen
+<h1><font color="#00ff95">Fouzia Oreen</font></h1>
 
 ### Full-Stack Software Engineer | MERN & Next.js Specialist | AI SaaS Architect
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/-Portfolio-3045FF?style=for-the-badge&logo=vercel&logoColor=white)](https://fouziaoreen.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6867?style=for-the-badge&logo=vercel&logoColor=white)](https://fouziaoreen.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fouziaoreen)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fouzia-Oreen)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fouzia__Oreen)
@@ -25,7 +25,7 @@
 <h3>🎯 Core Expertise</h1>
 <table width="100%" border="0" cellpadding="12">
 <tr>
-<td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
+<td width="50%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 16px;">
 
 <p><strong> SaaS & System Architecture</strong></p>
 
@@ -35,7 +35,7 @@
 - CI/CD pipeline automation
 
 </td>
-<td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
+<td width="50%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 16px;">
 
 <p><strong> Frontend Engineering</strong></p>
 
@@ -47,7 +47,7 @@
 </td>
 </tr>
 <tr >
-<td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
+<td width="50%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 16px;">
 
 <p><strong> Backend Development</strong></p>
 
@@ -57,7 +57,7 @@
 - WebSocket real-time features
 
 </td>
-<td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
+<td width="50%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 16px;">
 
 <p><strong> Payment & Integration</strong></p>
 
@@ -102,11 +102,11 @@
 
 <table width="100%" border="0" cellpadding="12">
 <tr>
-<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+<td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64" height="64" alt="Genora Hub Logo" />
+<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249220/genora_jcregh.png" width="64" height="64" alt="Genora Hub Logo" />
 
-<h3><font color="#3045FF">Genora Hub</font></h3>
+<h3><font color="#446DB3">Genora Hub</font></h3>
 
 <p align="center">
   <sub>
@@ -114,17 +114,17 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/genora-hub)
+[![Repo](https://img.shields.io/badge/🔗-LiveDemo-446DB3?style=flat-square)](https://github.com/Fouzia-Oreen/Genora.Ai)
 
 `Next.js` • `TypeScript` • `MongoDB`
 
 </td>
 
-<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+<td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://img.icons8.com/fluency/96/shopping-cart.png" width="64" height="64" alt="POS Logo" />
+<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249240/pos_vhgmpy.png" width="64" height="64" alt="POS Logo" />
 
-<h3><font color="#3FD58B"> Multi-Store POS</font></h3>
+<h3><font color="#22e97b"> Multi-Store POS</font></h3>
 
 <p align="center">
   <sub>
@@ -132,17 +132,17 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/pos-marketplace)
+[![Repo](https://img.shields.io/badge/🔗-LivDemo-22e97b?style=flat-square)](https://github.com/Fouzia-Oreen/pos-marketplace)
 
 `MERN` • `Docker` • `Stripe Connect`
 
 </td>
 
-<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+<td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://img.icons8.com/fluency/96/microphone.png" width="64" height="64" alt="Invoice Logo" />
+<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249220/invoice_n4rp9b.png" width="64" height="64" alt="Invoice Logo" />
 
-<h3><font color="#FF6B6B"> IntelliVoice Invoice</font></h3>
+<h3><font color="#FF6B6B"> IntelliVoice</font></h3>
 
 <p align="center">
   <sub>
@@ -150,19 +150,19 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/intellivoice)
+[![Repo](https://img.shields.io/badge/🔗-LiveDemo-FF6B6B?style=flat-square)](https://github.com/Fouzia-Oreen/IntelliVoice-Modern-Invoice-Management-SaaS)
 
-`React` • `Redux` • `Node.js` • `MongoDB`
+`Nextjs` • `Typescript` • `Node.js` • `Postgres`
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+<td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://img.icons8.com/fluency/96/brain.png" width="64" height="64" alt="Hire Mind Logo" />
+<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249220/hiremind_xwtpip.png" width="64" height="64" alt="Hire Mind Logo" />
 
-<h3><font color="#9B59B6"> Hire Mind</font></h3>
+<h3><font color="#FE7733"> Hire Mind</font></h3>
 
 <p align="center">
   <sub>
@@ -170,15 +170,15 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/hire-mind)
+[![Repo](https://img.shields.io/badge/🔗-LiveDemo-FE7733?style=flat-square)](https://github.com/Fouzia-Oreen/HireMind-AI-Powered-Interview-Preparation-Platform)
 
 `Next.js` • `TypeScript` • `Supabase`
 
 </td>
 
-<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+<td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://img.icons8.com/fluency/96/organic-food.png" width="64" height="64" alt="Organic Farm Logo" />
+<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249221/organic_rqux3m.png" width="64" height="64" alt="Organic Farm Logo" />
 
 <h3><font color="#27AE60"> Organic Farm</font></h3>
 
@@ -188,17 +188,17 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/organic-farm)
+[![Repo](https://img.shields.io/badge/🔗-LiveDemo-27AE60?style=flat-square)](https://github.com/Fouzia-Oreen/organic-farm)
 
 `MERN` • `Docker` • `Stripe Connect`
 
 </td>
 
-<td align="center" width="33%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+<td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://img.icons8.com/fluency/96/learning.png" width="64" height="64" alt="LMS Logo" />
+<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249220/lms_ggfasg.png" width="64" height="64" alt="LMS Logo" />
 
-<h3><font color="#252A47"> Brain-Gems LMS</font></h3>
+<h3><font color="#177FFF"> Brain-Gems LMS</font></h3>
 
 <p align="center">
   <sub>
@@ -206,7 +206,7 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/📂-Repository-252A47?style=flat-square)](https://github.com/Fouzia-Oreen/brain-gems)
+[![Repo](https://img.shields.io/badge/🔗-LiveDemo-177FFF?style=flat-square)](https://github.com/Fouzia-Oreen/brain-gems)
 
 `React` • `Redux` • `Node.js` • `MongoDB`
 
@@ -243,9 +243,9 @@
 
 ### 🤖 AI & Language Models
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFA614?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-217CE6?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 <br/>
