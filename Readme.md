@@ -112,7 +112,7 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/🔗-LiveDemo-446DB3?style=flat-square)](https://github.com/Fouzia-Oreen/Genora.Ai)
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-446DB3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fouzia-Oreen/Genora.Ai)
 
 `Next.js` • `TypeScript` • `MongoDB`
 
@@ -130,7 +130,7 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/🔗-LivDemo-22e97b?style=flat-square)](https://github.com/Fouzia-Oreen/pos-marketplace)
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-22E97B?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/pos-marketplace)
 
 `MERN` • `Docker` • `Stripe Connect`
 
@@ -148,7 +148,7 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/🔗-LiveDemo-FF6B6B?style=flat-square)](https://github.com/Fouzia-Oreen/IntelliVoice-Modern-Invoice-Management-SaaS)
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-FF6B6B?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/IntelliVoice-Modern-Invoice-Management-SaaS)
 
 `Nextjs` • `Typescript` • `Node.js` • `Postgres`
 
@@ -168,7 +168,7 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/🔗-LiveDemo-FE7733?style=flat-square)](https://github.com/Fouzia-Oreen/HireMind-AI-Powered-Interview-Preparation-Platform)
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-FE7733?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/HireMind-AI-Powered-Interview-Preparation-Platform)
 
 `Next.js` • `TypeScript` • `Supabase`
 
@@ -186,7 +186,7 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/🔗-LiveDemo-27AE60?style=flat-square)](https://github.com/Fouzia-Oreen/organic-farm)
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-27AE60?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/organic-farm)
 
 `MERN` • `Docker` • `Stripe Connect`
 
@@ -204,7 +204,7 @@
   </sub>
 </p>
 
-[![Repo](https://img.shields.io/badge/🔗-LiveDemo-177FFF?style=flat-square)](https://github.com/Fouzia-Oreen/brain-gems)
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-177FFF?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/brain-gems)
 
 `React` • `Redux` • `Node.js` • `MongoDB`
 
