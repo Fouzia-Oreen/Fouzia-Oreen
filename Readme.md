@@ -114,8 +114,6 @@
 
 [![LiveDemo](https://img.shields.io/badge/LiveDemo-446DB3?style=for-the-badge&logo=Color=white)](https://github.com/Fouzia-Oreen/Genora.Ai)
 
-`Next.js` • `TypeScript` • `MongoDB`
-
 </td>
 
 <td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
@@ -132,15 +130,13 @@
 
 [![LiveDemo](https://img.shields.io/badge/LiveDemo-22E97B?style=for-the-badge&logo=Color=black)](https://github.com/Fouzia-Oreen/pos-marketplace)
 
-`MERN` • `Docker` • `Stripe Connect`
-
 </td>
 
 <td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249220/invoice_n4rp9b.png" width="64" height="64" alt="Invoice Logo" />
+<img src=https://res.cloudinary.com/fouziaoreen/image/upload/v1782681948/invoice-flow_zxmcxe.png width="100%" height="100%" alt="Invoice Flow Logo" />
 
-<h3><font color="#FF6B6B"> IntelliVoice</font></h3>
+<h3><font color="#7851DD"> Invoice Flow</font></h3>
 
 <p align="center">
   <sub>
@@ -148,9 +144,7 @@
   </sub>
 </p>
 
-[![LiveDemo](https://img.shields.io/badge/LiveDemo-FF6B6B?style=for-the-badge&logo=logoColor=white)](https://github.com/Fouzia-Oreen/IntelliVoice-Modern-Invoice-Management-SaaS)
-
-`Nextjs` • `Typescript` • `Node.js` • `Postgres`
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-7851DD?style=for-the-badge&logo=logoColor=white)](https://github.com/Fouzia-Oreen/IntelliVoice-Modern-Invoice-Management-SaaS)
 
 </td>
 </tr>
@@ -158,9 +152,9 @@
 <tr>
 <td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249220/hiremind_xwtpip.png" width="64" height="64" alt="Hire Mind Logo" />
+<img src=https://res.cloudinary.com/fouziaoreen/image/upload/v1782680553/hiremind-merge_fg7etk.png width="100%" height="100%" alt="Hire Mind Logo" />
 
-<h3><font color="#FE7733"> Hire Mind</font></h3>
+<h3><font color="#0965F8"> Hire Mind</font></h3>
 
 <p align="center">
   <sub>
@@ -168,17 +162,15 @@
   </sub>
 </p>
 
-[![LiveDemo](https://img.shields.io/badge/LiveDemo-FE7733?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/HireMind-AI-Powered-Interview-Preparation-Platform)
-
-`Next.js` • `TypeScript` • `Supabase`
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-0965F8?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/HireMind-AI-Powered-Interview-Preparation-Platform)
 
 </td>
 
 <td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249221/organic_rqux3m.png" width="64" height="64" alt="Organic Farm Logo" />
+<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782685134/organicfarm_lfpvzt.png" width="100%" height="100%" alt="Organic Farm Logo" />
 
-<h3><font color="#27AE60"> Organic Farm</font></h3>
+<h3><font color="5E9446"> Organic Farm</font></h3>
 
 <p align="center">
   <sub>
@@ -186,9 +178,7 @@
   </sub>
 </p>
 
-[![LiveDemo](https://img.shields.io/badge/LiveDemo-27AE60?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/organic-farm)
-
-`MERN` • `Docker` • `Stripe Connect`
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-5E9446?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/organic-farm)
 
 </td>
 
@@ -205,8 +195,6 @@
 </p>
 
 [![LiveDemo](https://img.shields.io/badge/LiveDemo-177FFF?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/brain-gems)
-
-`React` • `Redux` • `Node.js` • `MongoDB`
 
 </td>
 </tr>
@@ -228,6 +216,8 @@
 <p >
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase,graphql,django" />
 </p>
+
+`MERN` • `Docker` • `Stripe Connect`
 
 ### DevOps & Cloud
 <p >
