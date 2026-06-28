@@ -112,7 +112,7 @@
   </sub>
 </p>
 
-[![LiveDemo](https://img.shields.io/badge/LiveDemo-446DB3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fouzia-Oreen/Genora.Ai)
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-446DB3?style=for-the-badge&logo=Color=white)](https://github.com/Fouzia-Oreen/Genora.Ai)
 
 `Next.js` • `TypeScript` • `MongoDB`
 
@@ -130,7 +130,7 @@
   </sub>
 </p>
 
-[![LiveDemo](https://img.shields.io/badge/LiveDemo-22E97B?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/pos-marketplace)
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-22E97B?style=for-the-badge&logo=Color=black)](https://github.com/Fouzia-Oreen/pos-marketplace)
 
 `MERN` • `Docker` • `Stripe Connect`
 
@@ -148,7 +148,7 @@
   </sub>
 </p>
 
-[![LiveDemo](https://img.shields.io/badge/LiveDemo-FF6B6B?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/IntelliVoice-Modern-Invoice-Management-SaaS)
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-FF6B6B?style=for-the-badge&logo=logoColor=white)](https://github.com/Fouzia-Oreen/IntelliVoice-Modern-Invoice-Management-SaaS)
 
 `Nextjs` • `Typescript` • `Node.js` • `Postgres`
 
