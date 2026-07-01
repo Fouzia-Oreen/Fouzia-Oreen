@@ -118,13 +118,13 @@
 
 <td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249240/pos_vhgmpy.png" width="64" height="64" alt="POS Logo" />
+<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782935274/Group_1321315063_qi61gb.png" width="100%" height="100%"  alt="POS Logo" />
 
-<h3><font color="#22e97b"> Multi-Store POS</font></h3>
+<h3><font color="#22e97b">AeroTable POS</font></h3>
 
 <p align="center">
   <sub>
-    Enterprise <ins>multi-tenant</ins> commerce engine featuring advanced <ins>split payments & inventory syncing</ins>.
+    <ins>Smart Restaurant POS & Management System</ins> with ultra-fast billing and order processing.
   </sub>
 </p>
 
