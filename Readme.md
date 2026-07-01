@@ -207,34 +207,43 @@
 
 ## 🛠️ Technology Arsenal
 
-### Frontend Stack
-<p >
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,sass,bootstrap,python" />
-</p>
+### 💻 Programming Languages
+`JavaScript` • `TypeScript` • `Python`
 
-### Backend & Database
-<p >
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase,graphql,django" />
-</p>
+---
 
-`MERN` • `Docker` • `Stripe Connect`
+### 🎨 Frontend Engineering
+`React` • `Next.js` • `Redux Toolkit` • `Tailwind CSS` • `Sass` • `Bootstrap`
 
-### DevOps & Cloud
-<p >
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,git,githubactions" />
-</p>
+---
 
-### Design & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,webstorm" />
-</p>
+### ⚙️ Backend Engineering
+`Node.js` • `Express.js` • `NestJS` • `REST APIs` • `Authentication` • `WebSockets`
 
-### 🤖 AI & Language Models
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFA614?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-217CE6?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
+---
+
+### 🗄️ Databases & ORM
+`MongoDB` • `PostgreSQL` • `Prisma` • `Firebase` • `Supabase`
+
+---
+
+### 💳 Payments & Commerce
+`Stripe` • `PayPal`
+
+---
+
+### ☁️ Cloud & DevOps
+`Docker` • `Redis` • `AWS` • `Vercel` • `Netlify` • `Git` • `GitHub`
+
+---
+
+### 🤖 AI Engineering
+`OpenAI API` • `Google Gemini` • `Hugging Face` • `Prompt Engineering` • `AI Automation`
+
+---
+
+### 🎨 Design & Developer Tools
+`Figma` • `Postman` • `VS Code` • `Cursor`
 
 <br/>
 
