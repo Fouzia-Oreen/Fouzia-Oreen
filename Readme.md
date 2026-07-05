@@ -102,9 +102,9 @@
 <tr>
 <td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249220/genora_jcregh.png" width="64" height="64" alt="Genora Hub Logo" />
+<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1783264420/UpDraft-thumbnail_zkgzjm.png"  width="100%" height="100%" alt="UpDraft Resume Builder Logo" />
 
-<h3><font color="#446DB3">Genora Hub</font></h3>
+<h3><font color="#446DB3">UpDraft AI</font></h3>
 
 <p align="center">
   <sub>
@@ -112,7 +112,7 @@
   </sub>
 </p>
 
-[![LiveDemo](https://img.shields.io/badge/LiveDemo-446DB3?style=for-the-badge&logo=Color=white)](https://github.com/Fouzia-Oreen/Genora.Ai)
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-FF7156?style=for-the-badge&logo=Color=white)](https://github.com/Fouzia-Oreen/Genora.Ai)
 
 </td>
 
