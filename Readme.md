@@ -152,7 +152,7 @@
 <tr>
 <td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src=https://res.cloudinary.com/fouziaoreen/image/upload/v1782680553/hiremind-merge_fg7etk.png width="100%" height="100%" alt="Hire Mind Logo" />
+<img src=https://res.cloudinary.com/fouziaoreen/image/upload/v1783372519/hiremind-thumbnail_but6vh.png width="100%" height="100%" alt="Hire Mind Logo" />
 
 <h3><font color="#0965F8"> Hire Mind</font></h3>
 
@@ -184,17 +184,17 @@
 
 <td align="center" width="33%" valign="top" style="border: 1px solid #363636; border-radius: 8px; padding: 20px;">
 
-<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1782249220/lms_ggfasg.png" width="64" height="64" alt="LMS Logo" />
+<img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1783379877/rsz_1brightbrainz-thumbnail_xncwkw.png" width="100%" height="100%" alt="LMS Logo" />
 
-<h3><font color="#177FFF"> Brain-Gems LMS</font></h3>
+<h3><font color="#177FFF"> BrightBrainz LMS</font></h3>
 
 <p align="center">
   <sub>
-    Comprehensive education platform equipped with <ins>multi-role dashboards, analytical pacing, and dark mode UI</ins>.
+    Comprehensive LMS platform with <ins>multi-role dashboards, analytical pacing & certification</ins>.
   </sub>
 </p>
 
-[![LiveDemo](https://img.shields.io/badge/LiveDemo-177FFF?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/brain-gems)
+[![LiveDemo](https://img.shields.io/badge/LiveDemo-FF6D63?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Fouzia-Oreen/brain-gems)
 
 </td>
 </tr>
